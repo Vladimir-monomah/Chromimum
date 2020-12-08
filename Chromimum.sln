@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chromimum", "Chromimum\Chromimum.csproj", "{A961240C-A222-49FB-8220-E1E9697FEABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A961240C-A222-49FB-8220-E1E9697FEABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A961240C-A222-49FB-8220-E1E9697FEABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A961240C-A222-49FB-8220-E1E9697FEABA}.Debug|x64.ActiveCfg = Debug|x64
+		{A961240C-A222-49FB-8220-E1E9697FEABA}.Debug|x64.Build.0 = Debug|x64
+		{A961240C-A222-49FB-8220-E1E9697FEABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A961240C-A222-49FB-8220-E1E9697FEABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A961240C-A222-49FB-8220-E1E9697FEABA}.Release|x64.ActiveCfg = Release|x64
+		{A961240C-A222-49FB-8220-E1E9697FEABA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD7B4AA4-7614-4C66-9AE0-3731C3FA2A19}
+	EndGlobalSection
+EndGlobal
